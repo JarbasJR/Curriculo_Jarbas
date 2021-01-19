@@ -1,0 +1,43 @@
+
+body{
+background-color: black;
+
+}
+
+*{
+    /* usando a font externa */
+    font-family: 'Stylish', sans-serif;
+    color:white;    
+    font-size: 40;
+
+}
+
+h1,h2 {   
+
+padding-left: 10px;
+}
+
+.bd_alter{
+ margin-left:100px   
+
+}
+
+
+.inic{
+    padding-left: 38px;
+    font-size: 40px;
+    font-family: 'Stylish', sans-serif;
+    margin: 20px;
+
+}
+.link_inic,.email_inic,.fone_inic{
+    padding-left: 100px;
+    padding: 10px;
+  
+}
+
+#empresas,#sobre,#qualificacao{
+color: blue;
+
+}
+
